@@ -1,13 +1,13 @@
 # WHIRLS
 A DSP method for Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications
 
-# Main files
+## Main files
 
 `demo.m`: Main file to demonstrate how to use WHIRLS algorithm.
 
 `generateLabels.m`: The main file for WHIRLS algorithm to generate time and frequency labels for all transmissions in a given wideband signal segment.
 
-# Functions
+## Functions
 
 `findTransmissions.m`: The function to detect all transmissions in time-domain.
 
@@ -19,13 +19,13 @@ A DSP method for Wideband High-Resolution Labeling of Signals for Spectrum Sensi
 
 `findEnd.m`: The functino to detect the first transmission end in a given signal segment, assuming the signal already starts with a transmission.
 
-# Citation
+## Citation
 
 If you use the WHIRLS code or any (modified) part of them, please cite our paper [1].
 
 We test the WHIRLS algorithm on an OTA dataset, which can be accessed at: <a href="https://cores.ee.ucla.edu/downloads/datasets/uavsig/">UAVSig dataset</a>. If you use the UAVSig dataset/code or any (modified) part of them, please cite our paper [2].
 
-# References
+## References
 
 [1] T. Zhao, B. W. Domae, C. Steigerwald, L. B. Paradis, T. Chabuk and D. Cabric, "WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications," submitted to MILCOM 2025.
 ```bibtex
