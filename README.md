@@ -17,7 +17,7 @@ A DSP method for Wideband High-Resolution Labeling of Signals for Spectrum Sensi
 
 `findStart.m`: The function to detect the first transmission start in a given signal segment.
 
-`findEnd.m`: The functino to detect the first transmission end in a given signal segment, assuming the signal already starts with a transmission.
+`findEnd.m`: The function to detect the first transmission end in a given signal segment, assuming the signal already starts with a transmission.
 
 ## Citation
 
