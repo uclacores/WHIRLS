@@ -27,7 +27,7 @@ We test the WHIRLS algorithm on an OTA dataset, which can be accessed at: <a hre
 
 ## References
 
-[1] T. Zhao, B. W. Domae, C. Steigerwald, L. B. Paradis, T. Chabuk and D. Cabric, "WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications," submitted to MILCOM 2025.
+[1] T. Zhao, B. W. Domae, C. Steigerwald, L. B. Paradis, T. Chabuk and D. Cabric, "WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications," submitted to MILCOM 2025, 2025.
 ```bibtex
 @misc{WHIRLS2025,
   author       = {Zhao, Tianyi and Domae, Benjamin W. and Steigerwald, Connor and Paradis, Luke B. and Chabuk, Tim and Cabric, Danijela},
