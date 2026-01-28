@@ -27,14 +27,15 @@ We test the WHIRLS algorithm on an OTA dataset, which can be accessed at: <a hre
 
 ## References
 
-[1] T. Zhao, B. W. Domae, C. Steigerwald, L. B. Paradis, T. Chabuk and D. Cabric, "WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications," accepted to MILCOM 2025, 2025.
+[1] T. Zhao, B. W. Domae, C. Steigerwald, L. B. Paradis, T. Chabuk and D. Cabric, "WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications," MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM), Los Angeles, CA, USA, 2025, pp. 323-329, doi: 10.1109/MILCOM64451.2025.11310434.
 ```bibtex
-@misc{WHIRLS2025,
-  author       = {Zhao, Tianyi and Domae, Benjamin W. and Steigerwald, Connor and Paradis, Luke B. and Chabuk, Tim and Cabric, Danijela},
-  title        = {WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications},
-  year         = {2025},
-  howpublished = {accepted to MILCOM 2025}, 
-}
+@INPROCEEDINGS{WHIRLS2025,
+  author    = {Zhao, Tianyi and Domae, Benjamin W. and Steigerwald, Connor and Paradis, Luke B. and Chabuk, Tim and Cabric, Danijela},
+  booktitle = {MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)}, 
+  title     = {WHIRLS: Wideband High-Resolution Labeling of Signals for Spectrum Sensing Applications}, 
+  year      = {2025},
+  pages     = {323-329},
+  doi       = {10.1109/MILCOM64451.2025.11310434}}
 ```
 
 [2] T. Zhao, B. W. Domae, C. Steigerwald, L. B. Paradis, T. Chabuk and D. Cabric, "Drone RF Signal Detection and Fingerprinting: UAVSig Dataset and Deep Learning Approach," MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM), Washington, DC, USA, 2024, pp. 431-436, doi: 10.1109/MILCOM61039.2024.10773837.
